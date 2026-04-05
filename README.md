@@ -1,2 +1,5 @@
-# python-exe-1775375944020
-Python to EXE - Calculatrice_Windows
+# Calculatrice_Windows
+
+Python app compiled to Windows EXE via GitHub Actions.
+
+Le build démarre automatiquement via GitHub Actions.
